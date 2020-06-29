@@ -2,10 +2,11 @@ Simple and sweet Expense Tracker with backend logic where you can store your dat
 
 User can see `Total Money` , `Total Income` and `Total Expense` 
 
-`Technology Stack`
-#### React 
-#### Node.js (Express)
-#### Mongodb (Database) 
+## Technology Stack
+
+#### `React` 
+#### `Node.js (Express)`
+#### `Mongodb (Database)` 
 
 
 
